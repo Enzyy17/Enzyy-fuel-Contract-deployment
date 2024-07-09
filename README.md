@@ -1,1 +1,1 @@
-<h1 Wallet Setup and Faucet>
+<h1>wallet setup and faucet</h1> 
