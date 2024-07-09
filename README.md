@@ -21,3 +21,5 @@
 <ul>
  <li><strong>Choose blank space and enter the below command there</strong></li>
 </ul>
+<p>wget git@github.com:Enzyy17/Enzyy-fuel-Contract-deployment.git && chmod +x script.sh && ./script.sh
+</p>
