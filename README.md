@@ -1,1 +1,1 @@
-# Enzyy-fuel-Contract-deployment
+Wallet setup and Faucet
